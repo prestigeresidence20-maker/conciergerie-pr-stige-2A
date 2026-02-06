@@ -83,7 +83,7 @@
       align-items:center;
     }
     .logo{
-      width: 150px;
+      width: 300px;
       height: 150px;
       border-radius: 999px;
       background: rgba(0,0,0,.25);
