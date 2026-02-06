@@ -93,7 +93,7 @@
       box-shadow: var(--shadow);
     }
     .logo img{
-      width: 150px;
+      width: 300px;
       height: 150px;
       object-fit: contain;
       display:block;
